@@ -6,6 +6,10 @@
 
 <img width="200px" src="https://media3.giphy.com/media/sDxVzsDgLo3rLQzVlc/giphy.gif"/>
 
+![GitHub Followers](https://img.shields.io/github/followers/lil-mati?style=for-the-badge&color=FF6B6B)
+![GitHub Stars](https://img.shields.io/github/stars/lil-mati?style=for-the-badge&color=4ECDC4)
+![Profile Views](https://komarev.com/ghpvc/?username=lil-mati&color=4c5861&style=for-the-badge)
+
 ---
 
 #### Languages
