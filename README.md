@@ -55,7 +55,7 @@
 - 💻 &nbsp; **Learning** through small projects and personal practice.
 - 🧩 &nbsp; **Participating** in basic projects to improve logic and teamwork skills.
 - 🌱 &nbsp; **Interested in learning more** about programming, design, technology, cybersecurity, ethical hacking, and AI.
-- ⚔ &nbsp; **I enjoy ranking up** in Valorant, League of Legends, Fortnite, etc.
+- ⚔ &nbsp; **I enjoy ranking up** in Val, Lol, Fn, etc.
 
 ---
 
